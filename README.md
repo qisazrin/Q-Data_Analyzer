@@ -3,7 +3,7 @@ a simple **Streamlit Web App** that allows users to upload CSV files and visuali
 Designed for data analysts, students, and beginner who want to understand their datasets.
 
 ---
-## 🧾 Table Of Contents
+## 🧾 About The Project
 This project is a streamlit-based data analysis tool that enables users to:
 - Upload CSV datasets
 - View data previews and summaries
